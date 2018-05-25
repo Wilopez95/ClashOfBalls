@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "5764855678",
+    "firebase_url": "https://clash-of-ballls.firebaseio.com",
+    "project_id": "clash-of-ballls",
+    "storage_bucket": "clash-of-ballls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5764855678:android:99ce8df7b99cc62c",
+        "android_client_info": {
+          "package_name": "com.example.wilop.clashofballs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5764855678-blgut0gvic4rfpa544cplmudeq9eo4hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wilop.clashofballs",
+            "certificate_hash": "927e87feb6420a1ad4801c5630b5bd3f2c43e31b"
+          }
+        },
+        {
+          "client_id": "5764855678-3fa71dkkisd05c689icpcv7nfsk70dl3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "5764855678-3fa71dkkisd05c689icpcv7nfsk70dl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzGyvnsVWsP2gnNec2DW4h_d7r0mesHtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5764855678-3fa71dkkisd05c689icpcv7nfsk70dl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
